@@ -1,4 +1,5 @@
 
           <div class="publications">
-            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* %}
+            {% assign selected_papers_limit = site.scholar.selected_papers_limit %}
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[selected=true]* -m 5 %}
           </div>
