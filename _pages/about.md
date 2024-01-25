@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Scientist • Apple AIML.
+subtitle: Research Scientist •  Apple AIML.
 
 profile:
   align: right
