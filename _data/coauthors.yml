@@ -1,34 +1,73 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Hajishirzi":
+  - firstname: ["Hannaneh", "Hanna"]
+    url: https://homes.cs.washington.edu/~hannaneh/index.html
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Cao":
+  - firstname: ["Qingqing", "Q."]
+    url: https://awk.ai/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Zhao":
+  - firstname: ["Bowen"]
+    url: https://roim1998.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Min": 
+  - firstname: ["Sewon"]
+    url: https://shmsw25.github.io/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Wang":
+  - firstname: ["Yizhong"]
+    url: https://homes.cs.washington.edu/~yizhongw/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Paranjape":
+  - firstname: ["Bhargavi"]
+    url: https://bhargaviparanjape.github.io/
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Peng":
+  - firstname: ["Hao"]
+    url: https://haopeng-nlp.github.io/
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Kusupati":
+  - firstname: ["Aditya"]
+    url: https://homes.cs.washington.edu/~kusupati/
 
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Rege":
+  - firstname: ["Aniket"]
+    url: https://aniketrege.github.io/
+
+"Treviso":
+  - firstname: ["Marcos"]
+    url: https://mtreviso.github.io/
+
+"Balasubramanian":
+  - firstname: ["Aruna"]
+    url: https://www3.cs.stonybrook.edu/~arunab/
+  - firstname: ["Niranjan"]
+    url: https://www3.cs.stonybrook.edu/~niranjan/
+
+"Khanna":
+  - firstname: ["Prerna"]
+    url: https://sites.google.com/view/prerna-khanna
+
+"Trivedi":
+  - firstname: ["Harsh"]
+    url: http://harshtrivedi.me/
+
+"Lal":
+  - firstname: ["Yash Kumar"]
+    url: https://ykl7.github.io/
+
+"Lane":
+  - firstname: ["Nicholas D."]
+    url: http://niclane.org/
+
+"Smith":
+  - firstname: ["Noah A."]
+    url: https://nasmith.github.io/
+
+"Xu":
+  - firstname: ["Jian"]
+    url: https://jianxux.github.io/
+
+"Porter":
+  - firstname: ["Donald E."]
+    url: https://www.cs.unc.edu/~porter/
