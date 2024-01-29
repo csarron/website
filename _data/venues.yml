@@ -1,6 +1,44 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ICLR 2024":
+  url: https://iclr.cc/Conferences/2024
+  # color: "#00369f"
+"NeurIPS 2023":
+  url: https://nips.cc/Conferences/2023
 
-"PhysRev":
-  url: https://journals.aps.org/
+"arXiv":
+  url: https://arxiv.org/
+
+"ACL 2023":
+  url: https://2023.aclweb.org/
+
+"TACL 2023":
+  url: https://transacl.org/index.php/tacl/issue/view/27
+
+"IMWUT 2022":
+  url: https://dl.acm.org/journal/imwut
+
+"ACL 2021":
+  url: https://2021.aclweb.org/
+
+"ACL 2020":
+  url: https://acl2020.org/
+
+"SustaiNLP 2020":
+  url: https://sites.google.com/view/sustainlp2020/home
+
+"EMNLP 2021":
+  url: https://2021.emnlp.org/
+
+"EMDL 2021":
+  url: https://emdl21.github.io/
+
+"EMDL 2017":
+  url: http://www.cs.ucl.ac.uk/deepmobile_wkshp/index.html
+
+"MobiSys 2019":
+  url: https://www.sigmobile.org/mobisys/2019/
+
+
+"MobiCom 2017":
+  url: https://www.sigmobile.org/mobicom/2017/
+
+
