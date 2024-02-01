@@ -105,8 +105,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 
 contact_note: >
-  For work related to Apple, please use my company email, otherwise, use my personal email.
-  <p >💼: <a href="mailto:qicao@apple.com">qicao@apple.com</a>, 👤: <a href="mailto:im@awk.ai">im@awk.ai</a>, 💬: <a href="/assets/img/wx.jpg">wechat</a></p>
+  Please use <a href="mailto:qicao@apple.com">qicao@apple.com</a> for Apple work, otherwise use <a href="mailto:im@awk.ai">im@awk.ai</a>, or 💬: <a href="/assets/img/wx.jpg">wechat</a>
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
