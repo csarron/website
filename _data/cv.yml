@@ -84,6 +84,9 @@
 - title: Service
   type: nested_list
   contents:
+    - title: Action Editor / Area Chair
+      items:
+        - ACL Rolling Review, ACL 2024
     - title: Program Committee
       items: 
         - ACL Rolling Review
