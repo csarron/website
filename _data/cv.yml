@@ -29,6 +29,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist
+      institution: AIML, Apple, WA, US
+      year: 2024 - current
     - title: Postdoctoral Scholar
       institution: NLP group, University of Washington, WA, US
       year: 2021 - 2023
@@ -89,7 +92,8 @@
         - ACL Rolling Review, ACL 2024
     - title: Program Committee
       items: 
-        - ACL Rolling Review
+        - <a href="https://colmweb.org/index.html">COLM 2024</a>
+        - <a href="https://aclrollingreview.org/people">ACL Rolling Review</a>
         - NeurIPS 2023
         - EMNLP 2021-2023
         - ACL 2021-2023
