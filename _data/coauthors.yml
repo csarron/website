@@ -71,3 +71,36 @@
 "Porter":
   - firstname: ["Donald E."]
     url: https://www.cs.unc.edu/~porter/
+
+"Mehta":
+  - firstname: ["Sachin"]
+    url: https://sacmehta.github.io/
+
+"Horton":
+  - firstname: ["Maxwell"]
+    url: https://mchorton.com/
+
+"Sekhavat":
+  - firstname: ["Mohammad Hossein"]
+    url: https://ca.linkedin.com/in/mhsekhavat
+"Mirzadeh":
+  - firstname: ["Iman"]
+    url: https://imirzadeh.me/
+"Jin":
+  - firstname: ["Yanzi"]
+    url: https://www.linkedin.com/in/yanzi-jin-112a3137
+"Sun":
+  - firstname: ["Chenfan"]
+    url: https://www.linkedin.com/in/chenfansun
+"Najibi":
+  - firstname: ["Mahyar"]
+    url: https://www.mahyarnajibi.com/
+"Belenko":
+  - firstname: ["Dmitry"]
+    url: https://www.linkedin.com/in/dmitrybelenko
+"Zatloukal":
+  - firstname: ["Peter"]
+    url: https://www.linkedin.com/in/peterzat
+"Rastegari":
+  - firstname: ["Mohammad"]
+    url: https://mrastegari.github.io/
