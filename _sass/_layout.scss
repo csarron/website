@@ -36,6 +36,7 @@ body.sticky-bottom-footer {
 :target {
   background-color: var(--global-target-color);
   -webkit-transition: all 1s linear;
+  border-radius: 10px;
 }
 
 

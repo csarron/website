@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-BTR was accepted to ICLR as a spotlight paper! 🎊
+[BTR](/publications/#caoBTRBinaryToken2024) was accepted to ICLR as a spotlight paper! 🎊
