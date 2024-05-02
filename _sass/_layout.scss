@@ -35,8 +35,10 @@ body.sticky-bottom-footer {
 
 :target {
   background-color: var(--global-target-color);
-  -webkit-transition: all 1s linear;
+  -webkit-transition: all 500ms linear;
+  transition: all 500ms linear;
   border-radius: 10px;
+  scroll-margin-top: 5rem;
 }
 
 
