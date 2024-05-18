@@ -65,12 +65,11 @@
   contents:
     - year: 2022, 2023
       items: 
-        - Postdoc Research Award, University of Washington
-        # - Matteucci Medal
+        - <a href="https://www.cs.washington.edu/academics/postdoc/research-awards/recipients">Postdoc Research Award</a>, University of Washington
     - year: 2021
       items: 
-        - Catacosinos Fellowship (2 out of 232 PhD students), Stony Brook University
-        - CDAC Rising Stars in Data Science, University of Chicago
+        - <a href="https://www.cs.stonybrook.edu/about-us/News/funding-doctoral-research-catacosinos-fellowship-awardees-2021">Catacosinos Fellowship</a> (2 out of 232 PhD students), Stony Brook University
+        - <a href="https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/2021/">Rising Stars in Data Science</a>, University of Chicago
     - year: 2017
       items: 
         - MobiSys Student Travel Grant, ACM SIGMOBILE
