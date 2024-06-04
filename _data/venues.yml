@@ -1,61 +1,61 @@
 "ICML 2024":
   url: https://icml.cc/Conferences/2024
-  color: "#84CC1B"
+  #color: "#84CC1B"
 
 "ICLR 2024":
   url: https://iclr.cc/Conferences/2024
-  color: "#4BBEE8"
+  #color: "#4BBEE8"
 
 "NeurIPS 2023":
   url: https://nips.cc/Conferences/2023
-  color: "#8B4CD2"
+  #color: "#8B4CD2"
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#A10816"
+  #color: "#A10816"
 
 "ACL 2023":
   url: https://2023.aclweb.org/
-  color: "#E5001C"
+  #color: "#E5001C"
 
 "TACL 2023":
   url: https://transacl.org/index.php/tacl/issue/view/27
-  color: "#76B6C4"
+  #color: "#76B6C4"
 
 "IMWUT 2022":
   url: https://dl.acm.org/journal/imwut
-  color: "#15412D"
+  #color: "#15412D"
 
 "ACL 2021":
   url: https://2021.aclweb.org/
-  color: "#E5001C"
+  #color: "#E5001C"
 
 "ACL 2020":
   url: https://acl2020.org/
-  color: "#E5001C"
+  #color: "#E5001C"
 
 "SustaiNLP 2020":
   url: https://sites.google.com/view/sustainlp2020/home
-  color: "#24A120"
+  #color: "#24A120"
 
 "EMNLP 2021":
   url: https://2021.emnlp.org/
-  color: "#850018"
+  #color: "#850018"
 
 "EMDL 2021":
   url: https://emdl21.github.io/
-  color: "#003CA3"
+  #color: "#003CA3"
 
 "EMDL 2017":
   url: http://www.cs.ucl.ac.uk/deepmobile_wkshp/index.html
-  color: "#003CA3"
+  #color: "#003CA3"
 
 "MobiSys 2019":
   url: https://www.sigmobile.org/mobisys/2019/
-  color: "#2964A8"
+  #color: "#2964A8"
 
 "MobiCom 2017":
   url: https://www.sigmobile.org/mobicom/2017/
-  color: "#07006F"
+  #color: "#07006F"
 
 
