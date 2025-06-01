@@ -14,7 +14,7 @@
 	arxiv = {2410.11963},
   bibtex_show={true},
   selected={true},
-  abbr={arxiv},
+  abbr={ICML 2025},
 }
 
 @misc{hortonKVPredictionImproved2024,
@@ -23,14 +23,14 @@
 	doi = {10.48550/arXiv.2410.08391},
 	abstract = {Inference with transformer-based language models begins with a prompt processing step. In this step, the model generates the first output token and stores the KV cache needed for future generation steps. This prompt processing step can be computationally expensive, taking 10s of seconds or more for billion-parameter models on edge devices when prompt lengths or batch sizes rise. This degrades user experience by introducing significant latency into the model's outputs. To reduce the time spent producing the first output (known as the ``time to first token'', or TTFT) of a pretrained model, we introduce a novel method called KV Prediction. In our method, a small auxiliary model is used to process the prompt and produce an approximation of the KV cache used by a base model. This approximated KV cache is then used with the base model for autoregressive generation without the need to query the auxiliary model again. We demonstrate that our method produces a pareto-optimal efficiency-accuracy trade-off when compared to baselines. On TriviaQA, we demonstrate relative accuracy improvements in the range of \$15{\textbackslash}\%-50{\textbackslash}\%\$ across a range of TTFT FLOPs budgets. We also demonstrate accuracy improvements of up to \$30{\textbackslash}\%\$ on HumanEval python code completion at fixed TTFT FLOPs budgets. Additionally, we benchmark models on an Apple M2 Pro CPU and demonstrate that our improvement in FLOPs translates to a TTFT speedup on hardware. We release our code at https://github.com/apple/corenet/tree/main/projects/kv-prediction .},
 	urldate = {2024-10-24},
-	publisher = {arXiv},
+	publisher = {First Workshop on Scalable Optimization for Efficient and Adaptive Foundation Models @ ICLR 2025},
 	author = {Horton, Maxwell and Cao, Qingqing and Sun, Chenfan and Jin, Yanzi and Mehta, Sachin and Rastegari, Mohammad and Nabi, Moin},
 	month = oct,
 	year = {2024},
 	arxiv = {2410.08391},
   bibtex_show={true},
   selected={true},
-  abbr={arxiv},
+  abbr={SCOPE 2025},
 }
 
 @misc{wenEfficientVisionLanguageModels2024,
