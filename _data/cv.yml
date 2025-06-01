@@ -30,7 +30,7 @@
   type: time_table
   contents:
     - title: Research Scientist
-      institution: AIML, Apple, WA, US
+      institution: SIML, Apple, WA, US
       year: 2024 - current
     - title: Postdoctoral Scholar
       institution: NLP group, University of Washington, WA, US
@@ -86,9 +86,12 @@
 - title: Service
   type: nested_list
   contents:
+    - title: Senior Area Chair
+      items:
+        - EMNLP 2025
     - title: Action Editor / Area Chair
       items:
-        - ACL Rolling Review, ACL 2024, EMNLP 2024
+        - ACL Rolling Review, ACL 2024, EMNLP 2024, NeurIPS 2025
     - title: Program Committee
       items: 
         - TMLR

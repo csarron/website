@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist •  Apple AIML.
+subtitle: Research Scientist •  Apple SIML.
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at Apple AIML. My research interests include efficient NLP, mobile computing, and ML systems. I have focused on building efficient and practical NLP systems for both edge devices and the cloud, such as on-device (visual) question answering and faster Transformer models.  
+I am a research scientist at Apple System Intelligence and Machine Learning (SIML) group. My current focus is to develop high quality ML systems and applications that are optimized for scalability and efficiency. In the past, I built efficient and practical NLP systems for both edge devices and the cloud, such as on-device (visual) question answering and faster Transformer models.  
 
 Previously, I was a postdoc in the [UW NLP group](https://www.cs.washington.edu/research/nlp) at the University of Washington where I won the [postdoc research award](https://www.cs.washington.edu/academics/postdoc/research-awards/recipients) twice. I hold a Ph.D. degree in computer science at [Stony Brook University](https://www.cs.stonybrook.edu/). I was a recipient of the [Catacosinos Fellowship](https://www.cs.stonybrook.edu/about-us/News/Funding-Doctoral-Research-Catacosinos-Fellowship-Awardees-2021) at Stony Brook University and a [Rising Star in Data Science](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/2021/) at the University of Chicago.
 
